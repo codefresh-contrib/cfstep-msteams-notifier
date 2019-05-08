@@ -5,7 +5,7 @@ version: 0.1.0
 description: "Send Message to Microsoft Teams"
 keywords:
   - messaging
-  - notificaitions
+  - notifications
 sources:
   - https://github.com/codefresh-contrib/cfstep-msteams-notifier
 maintainers:
