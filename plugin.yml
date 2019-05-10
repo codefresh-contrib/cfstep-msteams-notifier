@@ -1,4 +1,4 @@
-image: codefreshplugins/cfstep-msteams-notifier
+image: icon.jpg
 categories:
   - Notifications
 version: 0.1.0
@@ -11,7 +11,6 @@ sources:
 maintainers:
   - name: Dustin Van Buskirk
     email: dustinb@codefresh.io
-icon: https://cloud.githubusercontent.com/assets/343539/21630811/c5081e5c-d202-11e6-92eb-919d5999c77a.png
 envs:
   - name: CF_STATUS_MESSAGE
     type: optional
